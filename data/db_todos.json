@@ -18,18 +18,18 @@
         "color": "yellow"
     },
     {
-        "text": "Learn Redux Basics",
-        "completed": false,
         "id": 4,
-        "color": "green"
+        "text": "Learn React Redux",
+        "completed": true,
+        "color": "yellow"
     },
     {
-        "text": "Learn Redux fundamentals test",
-        "completed": false,
         "id": 5,
-        "color": "red"
+        "text": "Learn React",
+        "completed": true,
+        "color": "yellow"
     },
-{
+   {
         "id": 6,
         "text": "Filter by status",
         "completed": true,
@@ -59,7 +59,7 @@
         "completed": true,
         "color": "yellow"
     },
-{
+    {
         "id": 11,
         "text": "Delete task",
         "completed": true,
