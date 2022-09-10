@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "text": "Learn Vanilla JavaScript",
+        "completed": true,
+        "color": "green"
+    },
+    {
+        "id": 2,
+        "text": "Learn Modern ES6+ JavaScript",
+        "completed": false,
+        "color": "red"
+    },
+    {
+        "id": 3,
+        "text": "Learn React JS",
+        "completed": true,
+        "color": "yellow"
+    },
+    {
+        "text": "Learn Redux Basics",
+        "completed": false,
+        "id": 4,
+        "color": "green"
+    },
+    {
+        "text": "Learn Redux fundamentals test",
+        "completed": false,
+        "id": 5,
+        "color": "red"
+    },
+{
+        "id": 6,
+        "text": "Filter by status",
+        "completed": true,
+        "color": "green"
+    },
+    {
+        "id": 7,
+        "text": "Filter by color",
+        "completed": false,
+        "color": "red"
+    },
+    {
+        "id": 8,
+        "text": "Set status and color",
+        "completed": true,
+        "color": "yellow"
+    },
+    {
+        "id": 9,
+        "text": "Set all completed",
+        "completed": true,
+        "color": "yellow"
+    },
+    {
+        "id": 10,
+        "text": "Set clear completed",
+        "completed": true,
+        "color": "yellow"
+    },
+{
+        "id": 11,
+        "text": "Delete task",
+        "completed": true,
+        "color": "yellow"
+    },
+    {
+        "id": 12,
+        "text": "Edit task",
+        "completed": true,
+        "color": "yellow"
+    },
+    {
+        "id": 13,
+        "text": "Add todo",
+        "completed": true,
+        "color": "yellow"
+    },
+]
